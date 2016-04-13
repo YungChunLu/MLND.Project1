@@ -1,11 +1,10 @@
 # Machine Learning Nano Degree
 ## Project1 - Predicting Boston Housing Prices
 ### Project Highlights
-  This project shows:
-  * Using NumPy to investigate the latent features of a dataset.
-  * Analyzing various learning performance plots for variance and bias.
-  * Determining the best-guess model for predictions from unseen data.
-  * Evaluating a model’s performance on unseen data using previous data.
+  * Used NumPy to investigate the latent features of a dataset.
+  * Analyzed various learning performance plots for variance and bias.
+  * Determined the best-guess model for predictions from unseen data.
+  * Evaluated a model’s performance on unseen data using previous data.
   
 ### Project Report Questions
   * Q : Why do we split the data into training and testing subsets for our model?
