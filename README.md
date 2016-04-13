@@ -2,10 +2,10 @@
 ## Project1 - Predicting Boston Housing Prices
 ### Project Highlights
   This project shows:
-  * How I use NumPy to investigate the latent features of a dataset.
-  * How I analyze various learning performance plots for variance and bias.
-  * How I determine the best-guess model for predictions from unseen data.
-  * How I evaluate a model’s performance on unseen data using previous data.
+  * Using NumPy to investigate the latent features of a dataset.
+  * Analyzing various learning performance plots for variance and bias.
+  * Determining the best-guess model for predictions from unseen data.
+  * Evaluating a model’s performance on unseen data using previous data.
   
 ### Project Report Questions
   * Q : Why do we split the data into training and testing subsets for our model?
