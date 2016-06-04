@@ -1,5 +1,7 @@
 # Machine Learning Nano Degree
 ## Project1 - Predicting Boston Housing Prices
+![alt text](https://github.com/ArthurLu/MLND.Project1/blob/master/Cover%20Picture.png "Project1 Cover Picture")
+
 ### Project Highlights
   * Used NumPy to investigate the latent features of a dataset.
   * Analyzed various learning performance plots for variance and bias.
