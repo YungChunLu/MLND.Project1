@@ -18,5 +18,5 @@
   * Q : What is cross-validation, and how is it performed on a model? Why would cross-validation be helpful when using grid search?
     * A : Cross validation is an iterative process where train/test sets are randomly generated multiples times in order to evaluate the algorithm at each split, the results are then averaged over the splits. Cross validation would be helpful when a dataset is limited in size cross validation becomes extremely useful as it allows for an extensive exploitation of available data allowing assessing the real potential of our algorithm in terms of performance metrics.
 
-## Licence
+## License
 The content of this repository is licensed under [MIT License](https://github.com/ArthurLu/MLND.Project1/blob/master/LICENSE.txt)
