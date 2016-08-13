@@ -1,5 +1,5 @@
 # Machine Learning Nano Degree
-## Project1 - Predicting Boston Housing Prices
+## Project1 - Predicting Boston Housing Prices, [See Notebook](http://nbviewer.jupyter.org/github/ArthurLu/MLND.Project1/blob/master/boston_housing.ipynb)
 ![alt text](https://github.com/ArthurLu/MLND.Project1/blob/master/Cover%20Picture.png "Project1 Cover Picture")
 
 ### Project Highlights
